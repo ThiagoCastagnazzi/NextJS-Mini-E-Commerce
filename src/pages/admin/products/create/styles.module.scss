@@ -1,0 +1,18 @@
+.inputFile {
+  display: none;
+}
+
+.labelFile {
+  align-self: flex-end;
+  border-radius: 100px;
+  padding: 20px 10px;
+  width: 200px;
+  background-color: purple;
+  color: #fff;
+  font: bold 1rem "Roboto", sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+  display: block;
+  margin-top: 10px;
+  cursor: pointer;
+}
